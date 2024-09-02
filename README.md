@@ -1,2 +1,2 @@
 # SDP
-This is a repo for sdp lab
+This is a repo for SDP lab.
